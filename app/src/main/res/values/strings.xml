@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppSemana02</string>
+    <string name="titulo">Mi Formulario</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellidos</string>
+    <string name="dni">DNI</string>
+    <string name="celular">Celular</string>
+    <string name="direccion">Direccion</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="Titulo2">Mis Datos</string>
+</resources>
